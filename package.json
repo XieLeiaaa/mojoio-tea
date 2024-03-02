@@ -6,6 +6,10 @@
   "scripts": {
     "dev": "node index.js"
   },
+  "repository":{
+    "type":"git",
+    "url":"git+https://github.com/XieLeiaaa/mojoio-tea"
+  }
   "author": "Fahmi Idris",
   "license": "ISC",
   "devDependencies": {
