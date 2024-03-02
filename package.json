@@ -1,7 +1,7 @@
 {
-  "name": "simpledapp",
+  "name": "mojoio-tea",
   "version": "1.0.0",
-  "description": "Simple dapps created to make it easier for beginners who are entering the blockchain ecosystem for the first time.",
+  "description": "Simple dapps created to make it easier for beginners who are entering the blockchain ecosystem for the first time mojoio-tea.",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
